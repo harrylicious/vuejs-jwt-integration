@@ -1,5 +1,10 @@
 # vue-jwt-integration
 
+#Prerequisites
+1. Docker
+2. Backend Image https://github.com/scalablescripts/auth-api
+3. VueJS
+
 ## Project setup
 ```
 yarn install
